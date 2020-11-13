@@ -1,0 +1,9 @@
+### Tarot Deck: Gra 
+1 The_Adversary_(12)
+1 The_Ally_(16)
+1 The_Barbarian_(06)
+1 The_Celestial_(28)
+1 The_Companion_(17)
+1 The_Familiar_(18)_(alt)
+1 The_Construct_(26)
+1 The_Elemental_(25)
